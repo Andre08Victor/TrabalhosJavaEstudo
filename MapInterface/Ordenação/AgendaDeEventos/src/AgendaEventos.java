@@ -38,6 +38,11 @@ public class AgendaEventos {
         }
     }
 
+    public static void main(String[] args) {
+        AgendaEventos agendaEventos = new AgendaEventos();
+
+       
+    }
 
 
     
